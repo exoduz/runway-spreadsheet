@@ -1,3 +1,10 @@
 body {
   padding: 1rem;
 }
+
+input.cell-header {
+  border: 0;
+  background-color: #ddd;
+  font-weight: bold;
+  text-align: center;
+}
